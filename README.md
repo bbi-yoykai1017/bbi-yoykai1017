@@ -112,12 +112,6 @@
 
 ---
 
-## 🔥 Latest GitHub Activity
-
-<!-- REPOS:START -->- [bbi-yoykai1017 pushed bbi-yoykai1017](https://github.com/bbi-yoykai1017/bbi-yoykai1017/compare/e8a94103b5...f9dee2a7ce)- [bbi-yoykai1017 pushed bbi-yoykai1017](https://github.com/bbi-yoykai1017/bbi-yoykai1017/compare/e1453ccdbc...e8a94103b5)- [bbi-yoykai1017 created a branch](https://github.com/bbi-yoykai1017/bbi-yoykai1017/compare/0000000000...e1453ccdbc)- [bbi-yoykai1017 pushed Portfolio](https://github.com/bbi-yoykai1017/Portfolio/compare/26bb64a5d1...ac2a21320d)- [bbi-yoykai1017 pushed Portfolio](https://github.com/bbi-yoykai1017/Portfolio/compare/b9539dacca...26bb64a5d1)<!-- REPOS:END -->
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
