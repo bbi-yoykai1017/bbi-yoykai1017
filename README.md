@@ -45,6 +45,15 @@
       </p>
       <p><b>Tech:</b> PHP, Laravel, MySQL</p>
     </td>
+      <td width="50%">
+      <h3>🩺 An Nhien AI</h3>
+      <p>
+        AI-assisted home healthcare platform connecting patients, caregivers,
+        and doctors — with health profiles, care schedules, symptom tracking,
+        and doctor-verified AI explanations.
+      </p>
+      <p><b>Tech:</b> Laravel, MySQL, AI Integration</p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
