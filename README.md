@@ -41,7 +41,8 @@
       <h3>🏨 Hotel Booking Management</h3>
       <p>
         Backend MVC system for managing rooms, bookings, customers,
-        payments, and booking status.
+        payments, and booking status. 
+        link: https://github.com/quanbui13041999/BE2_HospitalManagement
       </p>
       <p><b>Tech:</b> PHP, Laravel, MySQL</p>
     </td>
