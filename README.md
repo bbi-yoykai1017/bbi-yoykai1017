@@ -38,24 +38,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🔍 FindBack</h3>
-      <p>
-        Lost and Found Management System that helps users report lost items,
-        post found items, search by category/location, and send claim requests.
-      </p>
-      <p><b>Tech:</b> Laravel, MySQL, REST API</p>
-    </td>
-    <td width="50%">
-      <h3>🏨 Hotel Booking Management</h3>
-      <p>
-        Backend MVC system for managing rooms, bookings, customers,
-        payments, and booking status.
-      </p>
-      <p><b>Tech:</b> PHP, Laravel, MySQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3>🛒 Shop AthleteHub</h3>
       <p>
         Online sports equipment store with product management,
